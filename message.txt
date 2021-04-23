@@ -1,5 +1,5 @@
 {"from":1000,"to":"*","channelId":"300000","liveId":123456,"timestamp":1619078066636}
-{"from":1000,"to":"*","channelId":"   300000","liveId":456789,"timestamp":1619078066637}
-    {"from":1000,"to":"*","channelId":"300000","liveId":101112,"timestamp":1619078066638}
-{"from":1000,"to":"*","channelId":"300000","liveId":131415,   "timestamp":1619078066639}
+{"from":1000,"to":"*","channelId":"300000","liveId":456789,"timestamp":1619078066637}
+{"from":1000,"to":"*","channelId":"300000","liveId":101112,"timestamp":1619078066638}
+{"from":1000,"to":"*","channelId":"300000","liveId":131415,"timestamp":1619078066639}
 
